@@ -6,6 +6,8 @@ This is my first time taking part in a hackathon
 We(Me and 5 others) made a simple prototype website that will show regional and national schemes for marginalized entrepreneurs.
 We got selected in our college level
 
+Team Name: AKIGAA; Team Lead: Amandeep Sando(me)
+
 The prototype only contains the front end with dummy schemes.
 I am ambitious to add more to this project.
 
